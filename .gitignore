@@ -1,0 +1,7 @@
+.env
+/vendor
+/vendor/*
+/public/image
+/public/image/*
+/storage
+/storage/*
